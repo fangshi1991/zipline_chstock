@@ -1,5 +1,7 @@
 # 简介
-zipline_chstock 为zipine 的本地化化版本。使用python2.7进行改写。使用本zipline时，请注意python 版本。
+zipline_chstock 为zipine 的本地化化版本，用于对于国内二级市场进行专业的回测研究。
+
+使用python2.7进行改写。使用本zipline时，请注意python 版本。
 
 注意各类包的版本，例如pandas等。若运行中出现错误，可尝试降低相关包的版本，
 # 主要变动
