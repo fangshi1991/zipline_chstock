@@ -3,5 +3,5 @@ scipy==0.15.1
 pymongo==3.4.0
 pandas==0.16.1
 matplotlib==2.0.0
-lxml==3.7.3
+lxml==4.9.1
 tushare==0.7.4
